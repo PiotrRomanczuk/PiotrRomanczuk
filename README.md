@@ -91,6 +91,6 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PiotrRomanczukj&theme=merko" alt="piotr-rom" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PiotrRomanczuk&theme=hacker&border_radius=7.5" alt="piotr-rom" /></p>
 
 [Piotr-Romanczuk](https://github.com/PiotrRomanczuk)
