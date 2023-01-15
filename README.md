@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **p.romanczuk@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Pizza🍕 and Music🎵 are the reasons to live.
 
 <br>
 
