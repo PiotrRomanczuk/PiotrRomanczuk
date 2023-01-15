@@ -6,6 +6,8 @@
 
 <p><img align="right" src="https://github.com/PiotrRomanczuk/PiotrRomanczuk/blob/main/assets/animation.gif" alt="adam-pw" /></p>
 
+<br>
+
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **p.romanczuk@gmail.com**
