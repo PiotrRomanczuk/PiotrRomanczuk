@@ -1,6 +1,6 @@
 <p>
 <h1 align="center">Hi 👋, I'm Piotr Romanczuk</h1>
-<h3 align="center">Self-taught Junior Front-End Web Developer.</h3>
+<h3 align="center">Self-taught Front-End Web Developer.</h3>
 <h3 align="center">Student at Software Development, IU of Applied Science🌟.</h3>
 </p>
 
