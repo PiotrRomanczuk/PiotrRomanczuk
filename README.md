@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://romanczuk.vercel.app"><img src="https://img.shields.io/badge/Portfolio-romanczuk.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://romanczuk.online"><img src="https://img.shields.io/badge/Portfolio-romanczuk.online-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
   <a href="mailto:p.romanczuk@gmail.com"><img src="https://img.shields.io/badge/Email-p.romanczuk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -18,7 +18,7 @@
 
 I build products end-to-end — from database schema to pixel-perfect UI. Currently studying Software Development at **IU University of Applied Sciences** while shipping production SaaS applications used daily by real users.
 
-I care about testing, reliability, and clean architecture. My projects have **1,100+ commits**, **500+ unit tests**, and **113 E2E tests** across production systems.
+I care about testing, reliability, and clean architecture. My projects have **2,000+ commits**, **500+ unit tests**, and **113 E2E tests** across production systems.
 
 ---
 
@@ -45,8 +45,8 @@ I care about testing, reliability, and clean architecture. My projects have **1,
 
 ### Featured Projects
 
-<a href="https://github.com/PiotrRomanczuk/guitar-crm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiotrRomanczuk&repo=guitar-crm&theme=github_dark&hide_border=true&bg_color=0d1117" alt="guitar-crm" />
+<a href="https://github.com/PiotrRomanczuk/strummy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiotrRomanczuk&repo=strummy&theme=github_dark&hide_border=true&bg_color=0d1117" alt="strummy" />
 </a>
 <a href="https://github.com/PiotrRomanczuk/instagram-stories-webhook">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiotrRomanczuk&repo=instagram-stories-webhook&theme=github_dark&hide_border=true&bg_color=0d1117" alt="instagram-stories-webhook" />
@@ -54,7 +54,7 @@ I care about testing, reliability, and clean architecture. My projects have **1,
 
 | Project | What it does | Key metrics |
 |:--------|:-------------|:------------|
-| **[Strummy](https://github.com/PiotrRomanczuk/guitar-crm)** | SaaS CRM for guitar teachers — students, lessons, song library | `1,100+ commits` `20–30 DAU` |
+| **[Strummy](https://github.com/PiotrRomanczuk/strummy)** | SaaS CRM for guitar teachers — students, lessons, song library | `2,000+ commits` `20–30 DAU` |
 | **[Instagram Webhook](https://github.com/PiotrRomanczuk/instagram-stories-webhook)** | Automated story publishing with FFmpeg media pipeline | `500+ unit tests` `113 E2E tests` |
 | **[INBORR](https://github.com/PiotrRomanczuk/INBORR---LandingPage)** | Commercial landing page with booking system and i18n | `Live in production` |
 | **[Pizza Store](https://github.com/PiotrRomanczuk/pizza-store)** | E-commerce demo with Stripe checkout integration | `Full checkout flow` |
@@ -86,5 +86,5 @@ I care about testing, reliability, and clean architecture. My projects have **1,
 <p align="center">
   <a href="https://github.com/PiotrRomanczuk?tab=repositories"><img src="https://img.shields.io/badge/See_all_repos_%E2%86%92-0d1117?style=for-the-badge" alt="All Repos" /></a>
   &nbsp;
-  <a href="https://romanczuk.vercel.app"><img src="https://img.shields.io/badge/Visit_Portfolio_%E2%86%92-58A6FF?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://romanczuk.online"><img src="https://img.shields.io/badge/Visit_Portfolio_%E2%86%92-58A6FF?style=for-the-badge" alt="Portfolio" /></a>
 </p>
