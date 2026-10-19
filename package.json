@@ -1,0 +1,14 @@
+{
+  "name": "piotrromanczuk-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cards": "node scripts/build-cards.mjs . assets"
+  },
+  "devDependencies": {
+    "@fontsource/instrument-sans": "5.1.1",
+    "@fontsource/jetbrains-mono": "5.1.2",
+    "@fontsource/newsreader": "5.1.1",
+    "satori": "0.12.2"
+  }
+}
