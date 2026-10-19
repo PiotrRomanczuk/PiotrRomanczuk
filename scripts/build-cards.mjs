@@ -61,11 +61,9 @@ const vectorDigital = (t) => h({ width: '100%', height: '100%', flexDirection: '
   text({ fontFamily: SANS, fontSize: 16, lineHeight: 1.55, color: t.fmut, marginTop: 14, maxWidth: 600 },
     'I take repetitive office work off people in small businesses (3–50 people): quotes, reports, invoices, copying data between email and Excel. Process automation and AI on the tools you already use — a free audit first, then a pilot.'),
   h({ alignItems: 'center', marginTop: 22, paddingTop: 18, borderTop: `1px solid ${t.frule}` },
-    h({ alignItems: 'center', height: 44, padding: '0 18px', borderRadius: 6, background: t.facc, color: t.onfacc, fontFamily: SANS, fontWeight: 600, fontSize: 15 },
-      'Ask about a free audit', arrow(t.onfacc, 'e')),
-    h({ width: 7, height: 7, borderRadius: 7, background: t.facc, marginLeft: 20 }),
-    text({ fontFamily: MONO, fontSize: 13, letterSpacing: 1.8, color: t.fink, marginLeft: 10 }, 'COMING SOON'),
-    text({ fontFamily: MONO, fontSize: 13, color: t.fmut, marginLeft: 10 }, 'dedicated Vector Digital site')));
+    h({ alignItems: 'center', height: 44, padding: '0 18px', borderRadius: 6, background: t.facc, color: t.onfacc, fontFamily: MONO, fontSize: 15 },
+      'vectordigital.pl', arrow(t.onfacc, 'ne')),
+    text({ fontFamily: MONO, fontSize: 13, color: t.fmut, marginLeft: 20 }, 'free audit · pilot · rollout')));
 
 const STRUMMY_STATS = ['2,000+ commits', '650+ merged PRs', '62 tables · 199 RLS policies', '3,700+ test cases'];
 const strummy = (t) => paper(t, { padding: '32px 36px' },

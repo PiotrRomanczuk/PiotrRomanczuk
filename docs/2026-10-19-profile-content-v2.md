@@ -29,7 +29,7 @@
 
 > **For businesses · my company** — **Vector Digital**
 > I take repetitive office work off people in small businesses (3–50 people): quotes, reports, invoices, copying data between email and Excel. Process automation and AI on the tools you already use — a free audit first, then a pilot.
-> [Ask about a free audit →](mailto:p.romanczuk@gmail.com?subject=Audyt%20%E2%80%94%20Vector%20Digital) · *Coming soon: dedicated Vector Digital site*
+> [vectordigital.pl ↗](https://vectordigital.pl) · free audit · pilot · rollout (cały kafel linkuje do strony; zmiana 2026-10-19 — strona działa od 2026-10-17)
 
 ### What I'm building
 

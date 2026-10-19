@@ -2,7 +2,7 @@
 
 [romanczuk.online](https://romanczuk.online) · [p.romanczuk@gmail.com](mailto:p.romanczuk@gmail.com)
 
-<a href="mailto:p.romanczuk@gmail.com?subject=Audyt%20%E2%80%94%20Vector%20Digital"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/vector-digital-dark.svg"><img alt="Vector Digital — my company. I take repetitive office work off people in small businesses: quotes, reports, invoices, copying data between email and Excel. Process automation and AI on the tools you already use — a free audit first, then a pilot. Click to ask about a free audit." src="assets/vector-digital-light.svg" width="100%"></picture></a>
+<a href="https://vectordigital.pl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/vector-digital-dark.svg"><img alt="Vector Digital — my company. I take repetitive office work off people in small businesses: quotes, reports, invoices, copying data between email and Excel. Process automation and AI on the tools you already use — a free audit first, then a pilot. vectordigital.pl" src="assets/vector-digital-light.svg" width="100%"></picture></a>
 
 ### What I'm building
 
